@@ -1,0 +1,2 @@
+# Interdisciplinarity-Project
+Objective of the project is to build a comparison between the pollutant concentration and Central Nervous System deseases over a specific geographical area, in support on the recent research which shows a strong causality between the two. The comparison will be carried out through the visualization of an interactive map. At the very end, a regression analysis will be execute to forecast the number of CNS diseases given the trend in the pollutant of a given area.
